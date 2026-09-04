@@ -1,5 +1,5 @@
 #define LED_PIN 13
-#define THRESHOLD 600
+#define THRESHOLD 700
 
 void loop()
 {
